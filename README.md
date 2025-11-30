@@ -11,7 +11,7 @@
 
 Software Engineering is something which coincides with my passion and hobby. Always up for a discussion on softwares, business and other opportunity. I'm currently into Web Development 🕸️ and building my home lab 🚀.
   
-<img align="right" alt="Coding Cat" src=".coding.webp" />
+<img align="right" alt="Coding Cat" src="./asset/coding.webp" />
 
 ### Talking about Personal Stuffs:
 
