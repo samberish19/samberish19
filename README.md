@@ -29,116 +29,25 @@ Software Engineering is something which coincides with my passion and hobby. Alw
 - 📰 &nbsp; Reading & writing tech blogs whenever possible
 - 🍕 &nbsp; Hackathons & coding competitions
 
-### Languages and Tools:
-
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/ac0b33cc8936c152bc0dacf91436f8099a5413c9/topics/go/go.png" alt="Go"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/2ebcebd7b163b2ab12cb5a40bf29264799c81c03/topics/nextjs/nextjs.png" alt="nextjs"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" alt="flutter"></code>
-<code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="redis"></code> 
-</code> 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 ### Projects and Dev Stuffs: 
   ⚡ Github Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samberish19&show_icons=true&locale=en&layout=compact" alt="samberish19" /></p>
 
-  <img height="170em" src="https://grs-akash.vercel.app/api?username=samberish19&show_icons=false&hide_border=true&count_private=true&show_icons=true&theme=radical&rank_icon=percentile" />
-  <img height="170em" src="https://grs-akash.vercel.app/api/top-langs/?username=samberish19&hide=html,Jupyter%20Notebook&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samberish19&show_icons=true&locale=en" alt="samberish19" /></p>
 
-
-<details>
-  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
-
-  <br />
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-        <td><b>👨‍💻 Language</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-	<td><a href="https://github.com/AkashRajpurohit/howtoprofessionallysay/"><b>🧍 How to professionally say</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/AkashRajpurohit/howtoprofessionallysay?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/AkashRajpurohit/howtoprofessionallysay?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/AkashRajpurohit/howtoprofessionallysay?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AkashRajpurohit/howtoprofessionallysay?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/AkashRajpurohit/howtoprofessionallysay?style=flat-square"/></td>
-      </tr>
-      <tr>
-	<td><a href="https://github.com/AkashRajpurohit/git-sync"><b>🔄 git-sync</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/AkashRajpurohit/git-sync?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/AkashRajpurohit/git-sync?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/AkashRajpurohit/git-sync?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AkashRajpurohit/git-sync?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/AkashRajpurohit/git-sync?style=flat-square"/></td> 
-      </tr>
-      <tr>
-	<td><a href="https://github.com/AkashRajpurohit/clipper"><b>📋 Clipper</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/AkashRajpurohit/clipper?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/AkashRajpurohit/clipper?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/AkashRajpurohit/clipper?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AkashRajpurohit/clipper?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/AkashRajpurohit/clipper?style=flat-square"/></td>
-      </tr>
-      <tr>
-	<td><a href="https://github.com/AkashRajpurohit/github-emojis"><b>🚀 Github Emojis</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/AkashRajpurohit/github-emojis?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/AkashRajpurohit/github-emojis?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/AkashRajpurohit/github-emojis?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AkashRajpurohit/github-emojis?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/AkashRajpurohit/github-emojis?style=flat-square"/></td>
-      </tr>
-      <tr>
-	<td><a href="https://github.com/AkashRajpurohit/Spell-IT"><b>🧮 Spell-IT</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/AkashRajpurohit/Spell-IT?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/AkashRajpurohit/Spell-IT?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/AkashRajpurohit/Spell-IT?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AkashRajpurohit/Spell-IT?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/AkashRajpurohit/Spell-IT?style=flat-square"/></td> 
-      </tr>
-      <tr>
-	<td><a href="https://github.com/AkashRajpurohit/ts-npm-template"><b>📦 ts-npm-template</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/AkashRajpurohit/ts-npm-template?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/AkashRajpurohit/ts-npm-template?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/AkashRajpurohit/ts-npm-template?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AkashRajpurohit/ts-npm-template?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/AkashRajpurohit/ts-npm-template?style=flat-square"/></td> 
-      </tr>
-      <tr>
-	<td><a href="https://github.com/AkashRajpurohit/time-to-go"><b>🔗 time-to-go</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/AkashRajpurohit/time-to-go?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/AkashRajpurohit/time-to-go?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/AkashRajpurohit/time-to-go?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AkashRajpurohit/time-to-go?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/AkashRajpurohit/time-to-go?style=flat-square"/></td> 
-      </tr>
-    </tbody>
-  </table>
-  <br />
-</details>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samberish19&" alt="samberish19" /></p>
  
-<details>	
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	  <li><b>OS:</b> MacOS / Linux</li>
-  	  <li><b>Browser: </b> Firefox / Brave Browser</li>
-	  <li><b>Code Editor:</b> Visual Studio Code / Neovim </li>
-	  <li><b>To Stay Updated:</b> Dev.to, Medium, Twitter and Tech YouTube Channels</li>
-	</ul>
-	<b>Read more about it <a target="_blank" rel="norefferer noopener" href="https://akashrajpurohit.com/uses/?ref=github-profile-readme">here</a></b>
-</details> 
+⚙️ Things I use to get stuff done
+  	
+  <li><b>OS:</b> MacOS / Linux</li>
+  <li><b>Browser: </b> Firefox / Brave Browser</li>
+  <li><b>Code Editor:</b> Visual Studio Code / Neovim </li>
+  <li><b>To Stay Updated:</b> Dev.to, Medium, Twitter and Tech YouTube Channels</li>
+	
+	<b>Read more about it <a target="_blank" rel="norefferer noopener" href="https://akashrajpurohit.com/uses/?ref=github-profile-readme">here</a></b
 
 <details>	
   <br />
