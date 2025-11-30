@@ -3,7 +3,6 @@
 [![Website Badge](https://img.shields.io/badge/-samberish19-3b5998?style=flat&logo=google-chrome&logoColor=white)](www.linkedin.com/in/samberish19)
 [![Linkedin Badge](https://img.shields.io/badge/-@samberish19-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/samberish19)
 [![Twitter Badge](https://img.shields.io/twitter/follow/amberish1901)](https://twitter.com/@Amberish1901)
-![Visitors](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fvc.samberish19.com%2Fc%2Fakash~gh~samberish19&query=count&style=flat&logo=github&label=Visitors&color=066da5)
 
 <img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
   
