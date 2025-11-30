@@ -5,7 +5,8 @@
 [![Twitter Badge](https://img.shields.io/twitter/follow/amberish1901)](https://twitter.com/@Amberish1901)
 ![Visitors](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fvc.samberish19.com%2Fc%2Fakash~gh~samberish19&query=count&style=flat&logo=github&label=Visitors&color=066da5)
 
-<img src="https://raw.githubusercontent.com/samberish19/samberish19/master/assets/github-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
+  
   
 ### Glad to see you here!
 
@@ -46,8 +47,8 @@ Software Engineering is something which coincides with my passion and hobby. Alw
 ### Projects and Dev Stuffs: 
   ⚡ Github Stats
 
-  <img height="170em" src="https://grs-akash.vercel.app/api?username=AkashRajpurohit&show_icons=false&hide_border=true&count_private=true&show_icons=true&theme=radical&rank_icon=percentile" />
-  <img height="170em" src="https://grs-akash.vercel.app/api/top-langs/?username=AkashRajpurohit&hide=html,Jupyter%20Notebook&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical" />
+  <img height="170em" src="https://grs-akash.vercel.app/api?username=samberish19&show_icons=false&hide_border=true&count_private=true&show_icons=true&theme=radical&rank_icon=percentile" />
+  <img height="170em" src="https://grs-akash.vercel.app/api/top-langs/?username=samberish19&hide=html,Jupyter%20Notebook&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical" />
 
 
 <details>
