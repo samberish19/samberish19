@@ -52,6 +52,8 @@ Right now, I’m focused on Data Analysis, ETL pipelines, real-world datasets, a
 
 <b>No blog link yet — but planning to start writing about my projects and learning journey soon!</b>
 
+## 🏆 GitHub Trophies
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samberish19" alt="samberish19" /></a> </p>
 
 <details>
@@ -62,3 +64,9 @@ Right now, I’m focused on Data Analysis, ETL pipelines, real-world datasets, a
 
  > The quote is powered by ["The Office API"](https://github.com/AkashRajpurohit/the-office-api) project
 </details>
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=samberish19&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![](https://visitcount.itsvg.in/api?id=samberish19&icon=0&color=0)](https://visitcount.itsvg.in)
+
