@@ -1,11 +1,11 @@
 ## Hey <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" />, I'm Amberish Singh — an Aspiring Software Engineer 👨‍💻
 
-[![Website Badge](https://img.shields.io/badge/-akashrajpurohit.com-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://akashrajpurohit.com/?ref=github-profile-readme-badge)
-[![Linkedin Badge](https://img.shields.io/badge/-@AkashRajpurohit-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/AkashRajpurohit)
-[![Twitter Badge](https://img.shields.io/twitter/follow/akashwhocodes)](https://twitter.com/AkashWhoCodes)
-![Visitors](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fvc.akashrajpurohit.com%2Fc%2Fakash~gh~akashrajpurohit&query=count&style=flat&logo=github&label=Visitors&color=066da5)
+[![Website Badge](https://img.shields.io/badge/-samberish19-3b5998?style=flat&logo=google-chrome&logoColor=white)](www.linkedin.com/in/samberish19)
+[![Linkedin Badge](https://img.shields.io/badge/-@samberish19-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/samberish19)
+[![Twitter Badge](https://img.shields.io/twitter/follow/amberish1901)](https://twitter.com/@Amberish1901)
+![Visitors](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fvc.samberish19.com%2Fc%2Fakash~gh~samberish19&query=count&style=flat&logo=github&label=Visitors&color=066da5)
 
-<img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/samberish19/samberish19/master/assets/github-snake-dark.svg" />
   
 ### Glad to see you here!
 
