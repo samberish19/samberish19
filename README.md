@@ -1,9 +1,10 @@
-## Hey <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" />, I'm Amberish Singh — an Aspiring Software Engineer 👨‍💻
+## Hey <img alt="Hi" src="./asset/Hi.gif" width="30px" height="30px" />, I'm Amberish Singh — an Aspiring Software Engineer 👨‍💻
 
 [![Website Badge](https://img.shields.io/badge/-samberish19-3b5998?style=flat&logo=google-chrome&logoColor=white)](www.linkedin.com/in/samberish19)
 [![Linkedin Badge](https://img.shields.io/badge/-@samberish19-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/samberish19)
 [![Twitter Badge](https://img.shields.io/twitter/follow/amberish1901)](https://twitter.com/@Amberish1901)
 
+<img alt="Hi" src="./asset/Hi.gif"/>
 <img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
   
   
