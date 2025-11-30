@@ -1,18 +1,16 @@
+<img alt="Cover" src="./asset/Amberish_LinkedIn_Cover.png"/>
+
 ## Hey <img alt="Hi" src="./asset/Hi.gif" width="30px" height="30px" />, I'm Amberish Singh — an Aspiring Software Engineer 👨‍💻
 
 [![Website Badge](https://img.shields.io/badge/-samberish19-3b5998?style=flat&logo=google-chrome&logoColor=white)](www.linkedin.com/in/samberish19)
 [![Linkedin Badge](https://img.shields.io/badge/-@samberish19-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/samberish19)
 [![Twitter Badge](https://img.shields.io/twitter/follow/amberish1901)](https://twitter.com/@Amberish1901)
-
-<img alt="Hi" src="./asset/Hi.gif"/>
-<img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
-  
-  
+   
 ### Glad to see you here!
 
 Software Engineering is something which coincides with my passion and hobby. Always up for a discussion on softwares, business and other opportunity. I'm currently into Web Development 🕸️ and building my home lab 🚀.
   
-<img align="right" alt="Coding Cat" src="./asset/coding.webp" />
+<img align="right" alt="Coding Cat" src="./asset/coding.gif" />
 
 ### Talking about Personal Stuffs:
 
@@ -21,7 +19,9 @@ Software Engineering is something which coincides with my passion and hobby. Alw
 - 💬 &nbsp; I write blogs [here](https://akashrajpurohit.com/blogs/?utm_source=github&utm_medium=readme)!
 - 📰 &nbsp; I have started sending out newsletters, subscribe it [here](https://akashrajpurohit.com/newsletter/?utm_source=github&utm_medium=readme)
 - 👾 &nbsp; Fun fact: I use tabs over spaces.
-- 📫 &nbsp; How to reach me: me@akashrajpurohit.com 
+- 📫 &nbsp; How to reach me: me@akashrajpurohit.com
+
+  <img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
 
 ### My Absolute Favorites:
 
